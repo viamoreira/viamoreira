@@ -1,7 +1,7 @@
  ##  <div align="center"> Oi! Eu sou a `@viamoreira`, bem-vindo ao meu `GitHub` :D !</div>
 
 
-![github-header-image (3)](assets\ProfileGif.gif)
+![github-header-image (3)](ProfileGif.gif)
  
   <br>
   
@@ -9,7 +9,7 @@
 </a>
 
 <div>
-   <img align="right" alt="viamoreira" width="130" height="130" src="assets\SylveonProfile.gif">
+   <img align="right" alt="viamoreira" width="130" height="130" src="SylveonProfile.gif">
 
 - ✨ **Pronomes:** Ela/Dela
 
@@ -79,5 +79,5 @@
 <br> 
 
 <div  align="center">
-<img width="100"src="assets\EndMewGif.gif"/>
+<img width="100"src="EndMewGif.gif"/>
 </div>
