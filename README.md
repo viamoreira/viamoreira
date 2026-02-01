@@ -50,11 +50,9 @@
 
 ##  📊 Status  
 <div align="center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viamoreira&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
-
  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="50%" alt="viamoreira's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viamoreira?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+    <img   width="50%" alt="viamoreira's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/viamoreira?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7&card_width=200" />
   </a>
 </p>
 
@@ -67,7 +65,7 @@
 <a href="https://www.linkedin.com/in/viamoreira/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
 </a>
-<a href="https://www.instagram.com/viamoreir.a/" target="_blank">
+<a href="https://www.instagram.com/viamoreir.a/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-ffa4c7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
 </a>
 
